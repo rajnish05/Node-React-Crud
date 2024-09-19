@@ -1,9 +1,9 @@
-# Node-React-Curd
+# Node-React-Crud
 
 
 STEPS
 
-1) git clone https://github.com/rajnish05/Node-React-Curd.git
+1) git clone https://github.com/rajnish05/Node-React-Crud.git
 
 2) cd Node-React-Crud // go to project directory
 
